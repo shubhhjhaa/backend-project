@@ -1,0 +1,13 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Start":"node index.js"
+  },
+  "keywords": [],
+  "author": "Shubham Jha",
+  "license": "ISC",
+  "type": "commonjs"
+}
